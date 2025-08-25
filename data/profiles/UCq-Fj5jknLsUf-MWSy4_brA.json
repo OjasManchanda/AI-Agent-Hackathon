@@ -1,0 +1,43 @@
+{
+  "creator_id": "UCq-Fj5jknLsUf-MWSy4_brA",
+  "creator_name": "T-Series",
+  "profile_generated_at": "2025-08-24T21:57:02.853213",
+  "content_dna": {
+    "primary_themes": {
+      "ai": 1
+    },
+    "content_entities": {},
+    "sentiment_profile": {
+      "vader_avg": -0.296,
+      "textblob_avg": 0.4,
+      "sentiment_distribution": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 1
+      },
+      "dominant_sentiment": "negative"
+    }
+  },
+  "performance_metrics": {
+    "avg_views": 0,
+    "avg_engagement_rate": 0,
+    "consistency_score": 0,
+    "trend_direction": "stable"
+  },
+  "posting_behavior": {
+    "frequency": "unknown",
+    "consistency": 0
+  },
+  "brand_compatibility": {
+    "safety_score": 7.0,
+    "risk_factors": [
+      "Overall content sentiment leans negative"
+    ],
+    "opportunities": [
+      "Standard partnership potential"
+    ]
+  },
+  "recommendations": [
+    "Insufficient data for trend analysis"
+  ]
+}

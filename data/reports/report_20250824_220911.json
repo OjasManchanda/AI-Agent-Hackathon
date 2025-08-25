@@ -1,0 +1,280 @@
+{
+  "executive_summary": {
+    "report_title": "Standard Influencer Analysis Report",
+    "generated_at": "2025-08-24T22:09:11.616118",
+    "channels_analyzed": 1,
+    "key_findings": [
+      "\ud83d\udd25 'minecraft' is the hottest topic across creators - consider campaigns around this theme",
+      "\ud83d\udcca Recent content averaging 3.9% engagement",
+      "\ud83d\udee1\ufe0f 1 creators classified as brand-safe for partnerships"
+    ],
+    "recommendations": {
+      "top_partnership_candidates": [],
+      "trending_content_themes": [
+        "minecraft",
+        "ai",
+        "game",
+        "play",
+        "fortnite"
+      ],
+      "brand_safety_assessment": {
+        "safe_creators": [
+          "MrBeast Gaming"
+        ],
+        "moderate_risk": [],
+        "high_risk": []
+      }
+    },
+    "next_steps": [
+      "Monitor high-performing creators for partnership opportunities",
+      "Develop content strategy around trending topics",
+      "Schedule follow-up analysis in 48 hours"
+    ]
+  },
+  "detailed_analysis": {
+    "report_generated_at": "2025-08-24T22:09:11.616081",
+    "analyzed_channels_count": 1,
+    "trending_topics_across_creators": {
+      "minecraft": 1,
+      "ai": 1,
+      "game": 1,
+      "play": 1,
+      "fortnite": 1
+    },
+    "performance_benchmarks": {
+      "avg_engagement_rate": 2.41,
+      "high_performers": [],
+      "rising_creators": []
+    },
+    "brand_safety_overview": {
+      "safe_creators": [
+        "MrBeast Gaming"
+      ],
+      "moderate_risk": [],
+      "high_risk": []
+    },
+    "actionable_insights": [
+      "\ud83d\udd25 'minecraft' is the hottest topic across creators - consider campaigns around this theme",
+      "\ud83d\udcca Recent content averaging 3.9% engagement",
+      "\ud83d\udee1\ufe0f 1 creators classified as brand-safe for partnerships"
+    ],
+    "creator_comparison_data": [
+      {
+        "name": "MrBeast Gaming",
+        "avg_engagement": 2.41,
+        "trend_direction": "stable",
+        "safety_score": 8.5
+      }
+    ]
+  },
+  "raw_data": [
+    {
+      "channel_info": {
+        "id": "UCIPPMRA040LQr5QPyJEbmXA",
+        "title": "MrBeast Gaming",
+        "subscriber_count": 48800000,
+        "video_count": 151,
+        "view_count": 9244822242,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lMiSL6eHqg2dVxvll6mVMeXo1qVak4TZ4_7mEWdobRRCk=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "videos": [
+        {
+          "id": "9OHRtUHezTk",
+          "title": "$10,000 Every Boss You Beat",
+          "description": "The new Feastables Hazelnut Cups are now available at Five Below, Circle K, and Albertsons locations nationwide! Go find them \ud83d\udc49https://fstbls.com/5mj6dv\n\nBTMC: https://www.youtube.com/@BTMCLive\n\nSUBSC...",
+          "thumbnail": "https://i.ytimg.com/vi/9OHRtUHezTk/maxresdefault.jpg",
+          "published_at": "2025-08-23T16:00:22Z",
+          "views": 3984802,
+          "likes": 152507,
+          "comments": 3098,
+          "engagement_rate": 3.9,
+          "days_since_publish": 1,
+          "duration": "26:43",
+          "url": "https://youtube.com/watch?v=9OHRtUHezTk",
+          "analysis": {
+            "viral_score": 9,
+            "content_category": "Tech",
+            "brand_safety_score": 10,
+            "engagement_quality": "medium",
+            "recommended_action": "\ud83c\udfaf Excellent partnership opportunity! High viral potential with positive sentiment around ai, gaming",
+            "ai_insights": {
+              "sentiment_score": 0.554,
+              "key_themes": [
+                "ai",
+                "gaming",
+                "minecraft"
+              ],
+              "content_tone": "positive"
+            }
+          }
+        },
+        {
+          "id": "usGPK2hHomI",
+          "title": "$1,000 Every Minute You Survive",
+          "description": "Want your own Sidekick? Shopify\u2019s new assistant can help you run your business faster and smarter. Start your store today: https://shopify.com/mrbeast\n\nSUBSCRIBE OR YOU'LL HAVE BAD LUCK\n\nNew Merch - h...",
+          "thumbnail": "https://i.ytimg.com/vi/usGPK2hHomI/maxresdefault.jpg",
+          "published_at": "2025-08-09T16:01:39Z",
+          "views": 10995636,
+          "likes": 286061,
+          "comments": 4153,
+          "engagement_rate": 2.64,
+          "days_since_publish": 15,
+          "duration": "14:16",
+          "url": "https://youtube.com/watch?v=usGPK2hHomI",
+          "analysis": {
+            "viral_score": 8,
+            "content_category": "Gaming",
+            "brand_safety_score": 10,
+            "engagement_quality": "medium",
+            "recommended_action": "\ud83c\udfaf Excellent partnership opportunity! High viral potential with positive sentiment around gaming, minecraft",
+            "ai_insights": {
+              "sentiment_score": 0.851,
+              "key_themes": [
+                "gaming",
+                "minecraft"
+              ],
+              "content_tone": "positive"
+            }
+          }
+        },
+        {
+          "id": "hbRQ59R6-b8",
+          "title": "Last Team Standing Wins $250,000",
+          "description": "Go try Fortnite Reload's new map! Thanks to Epic Games for sponsoring this video\nSUBSCRIBE OR YOU'LL HAVE BAD LUCK\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete...",
+          "thumbnail": "https://i.ytimg.com/vi/hbRQ59R6-b8/maxresdefault.jpg",
+          "published_at": "2025-06-28T16:00:31Z",
+          "views": 15903052,
+          "likes": 309719,
+          "comments": 3989,
+          "engagement_rate": 1.97,
+          "days_since_publish": 57,
+          "duration": "12:42",
+          "url": "https://youtube.com/watch?v=hbRQ59R6-b8",
+          "analysis": {
+            "viral_score": 6,
+            "content_category": "Gaming",
+            "brand_safety_score": 10,
+            "engagement_quality": "low",
+            "recommended_action": "\ud83d\udcc8 Strong collaboration potential. Consider partnership for game, gaming",
+            "ai_insights": {
+              "sentiment_score": 0.817,
+              "key_themes": [
+                "game",
+                "gaming",
+                "minecraft"
+              ],
+              "content_tone": "positive"
+            }
+          }
+        },
+        {
+          "id": "jEG8wuUE1pY",
+          "title": "$1 vs $25,000 Secret Rooms",
+          "description": "These Minecraft builds blew my mind!\nSUBSCRIBE OR YOU'LL HAVE BAD LUCK\n\nNew Merch - https://mrbeast.store/\n\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://d...",
+          "thumbnail": "https://i.ytimg.com/vi/jEG8wuUE1pY/maxresdefault.jpg",
+          "published_at": "2025-07-26T16:00:11Z",
+          "views": 21913123,
+          "likes": 415344,
+          "comments": 4588,
+          "engagement_rate": 1.92,
+          "days_since_publish": 29,
+          "duration": "16:15",
+          "url": "https://youtube.com/watch?v=jEG8wuUE1pY",
+          "analysis": {
+            "viral_score": 7,
+            "content_category": "Gaming",
+            "brand_safety_score": 10,
+            "engagement_quality": "low",
+            "recommended_action": "\ud83d\udcc8 Strong collaboration potential. Consider partnership for minecraft, gaming",
+            "ai_insights": {
+              "sentiment_score": 0.554,
+              "key_themes": [
+                "minecraft",
+                "gaming"
+              ],
+              "content_tone": "positive"
+            }
+          }
+        },
+        {
+          "id": "xiFsAjUDwdU",
+          "title": "Beat This Race, Win This Lamborghini!",
+          "description": "Imagine winning a Lamborghini just by playing GTA lol\n\nSUBSCRIBE OR YOU'LL HAVE BAD LUCK\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future challenges!\nhttp...",
+          "thumbnail": "https://i.ytimg.com/vi/xiFsAjUDwdU/maxresdefault.jpg",
+          "published_at": "2025-06-14T16:00:30Z",
+          "views": 23598023,
+          "likes": 372775,
+          "comments": 4732,
+          "engagement_rate": 1.6,
+          "days_since_publish": 71,
+          "duration": "17:57",
+          "url": "https://youtube.com/watch?v=xiFsAjUDwdU",
+          "analysis": {
+            "viral_score": 6,
+            "content_category": "Gaming",
+            "brand_safety_score": 10,
+            "engagement_quality": "low",
+            "recommended_action": "\ud83d\udcc8 Strong collaboration potential. Consider partnership for gaming, play",
+            "ai_insights": {
+              "sentiment_score": 0.913,
+              "key_themes": [
+                "gaming",
+                "play"
+              ],
+              "content_tone": "positive"
+            }
+          }
+        }
+      ],
+      "ai_analysis": {
+        "creator_id": "UCIPPMRA040LQr5QPyJEbmXA",
+        "creator_name": "MrBeast Gaming",
+        "profile_generated_at": "2025-08-24T22:09:11.114079",
+        "content_dna": {
+          "primary_themes": {
+            "minecraft": 2,
+            "ai": 1,
+            "game": 1,
+            "play": 1,
+            "fortnite": 1
+          },
+          "content_entities": {},
+          "sentiment_profile": {
+            "vader_avg": 0.34,
+            "textblob_avg": 0.105,
+            "sentiment_distribution": {
+              "positive": 6,
+              "neutral": 4,
+              "negative": 0
+            },
+            "dominant_sentiment": "positive"
+          }
+        },
+        "performance_metrics": {
+          "avg_views": 15278927,
+          "avg_engagement_rate": 2.41,
+          "consistency_score": 8.65,
+          "trend_direction": "stable"
+        },
+        "posting_behavior": {
+          "frequency": "monthly_or_less",
+          "avg_days_between_posts": 17.0,
+          "consistency_percentage": 66.5
+        },
+        "brand_compatibility": {
+          "safety_score": 8.5,
+          "risk_factors": [
+            "No significant risk factors identified"
+          ],
+          "opportunities": [
+            "Positive overall content sentiment"
+          ]
+        },
+        "recommendations": [
+          "\ud83d\udcca Stable performance - Reliable partnership option",
+          "\ud83c\udfaf Focus on trending topics: general"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "creator_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+  "creator_name": "PewDiePie",
+  "profile_generated_at": "2025-08-25T07:43:24.688489",
+  "content_dna": {
+    "primary_themes": {
+      "ai": 3
+    },
+    "content_entities": {},
+    "sentiment_profile": {
+      "vader_avg": -0.07,
+      "textblob_avg": 0.085,
+      "sentiment_distribution": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 1
+      },
+      "dominant_sentiment": "positive"
+    }
+  },
+  "performance_metrics": {
+    "avg_views": 1360985,
+    "avg_engagement_rate": 10.07,
+    "consistency_score": 10.0,
+    "trend_direction": "stable"
+  },
+  "posting_behavior": {
+    "frequency": "insufficient_data",
+    "consistency": 0
+  },
+  "brand_compatibility": {
+    "safety_score": 8.0,
+    "risk_factors": [
+      "No significant risk factors identified"
+    ],
+    "opportunities": [
+      "Standard partnership potential"
+    ]
+  },
+  "recommendations": [
+    "\ud83d\udcca Stable performance - Reliable partnership option",
+    "\ud83c\udfaf Focus on trending topics: general"
+  ]
+}

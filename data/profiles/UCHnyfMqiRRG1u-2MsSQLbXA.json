@@ -1,0 +1,45 @@
+{
+  "creator_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+  "creator_name": "Veritasium",
+  "profile_generated_at": "2025-08-25T07:43:28.206948",
+  "content_dna": {
+    "primary_themes": {
+      "review": 1
+    },
+    "content_entities": {},
+    "sentiment_profile": {
+      "vader_avg": -0.115,
+      "textblob_avg": -0.093,
+      "sentiment_distribution": {
+        "positive": 3,
+        "neutral": 3,
+        "negative": 4
+      },
+      "dominant_sentiment": "negative"
+    }
+  },
+  "performance_metrics": {
+    "avg_views": 9780369,
+    "avg_engagement_rate": 3.39,
+    "consistency_score": 9.05,
+    "trend_direction": "stable"
+  },
+  "posting_behavior": {
+    "frequency": "weekly",
+    "avg_days_between_posts": 4.5,
+    "consistency_percentage": 98.8
+  },
+  "brand_compatibility": {
+    "safety_score": 7.2,
+    "risk_factors": [
+      "Overall content sentiment leans negative"
+    ],
+    "opportunities": [
+      "Contains 1 brand-positive content elements"
+    ]
+  },
+  "recommendations": [
+    "\ud83d\udcca Stable performance - Reliable partnership option",
+    "\ud83c\udfaf Focus on trending topics: general"
+  ]
+}

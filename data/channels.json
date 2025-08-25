@@ -1,0 +1,92 @@
+{
+  "Tech": [
+    {
+      "name": "MKBHD",
+      "handle": "mkbhd"
+    },
+    {
+      "name": "Unbox Therapy",
+      "handle": "unboxtherapy"
+    },
+    {
+      "name": "Linus Tech Tips",
+      "handle": "linustechtips"
+    },
+    {
+      "name": "Dave2D",
+      "handle": "dave2d"
+    }
+  ],
+  "Gaming": [
+    {
+      "name": "PewDiePie",
+      "handle": "pewdiepie"
+    },
+    {
+      "name": "MrBeast Gaming",
+      "handle": "mrbeastgaming"
+    },
+    {
+      "name": "Jacksepticeye",
+      "handle": "jacksepticeye"
+    },
+    {
+      "name": "Markiplier",
+      "handle": "markiplier"
+    }
+  ],
+  "Lifestyle": [
+    {
+      "name": "Emma Chamberlain",
+      "handle": "emmachamberlain"
+    },
+    {
+      "name": "James Charles",
+      "handle": "jamescharles"
+    },
+    {
+      "name": "Dude Perfect",
+      "handle": "dudeperfect"
+    },
+    {
+      "name": "Casey Neistat",
+      "handle": "caseyneistat"
+    }
+  ],
+  "Education": [
+    {
+      "name": "Veritasium",
+      "handle": "veritasium"
+    },
+    {
+      "name": "Kurzgesagt",
+      "handle": "kurzgesagt"
+    },
+    {
+      "name": "Khan Academy",
+      "handle": "khanacademy"
+    },
+    {
+      "name": "Crash Course",
+      "handle": "crashcourse"
+    }
+  ],
+  "Business": [
+    {
+      "name": "Gary Vaynerchuk",
+      "handle": "garyvee"
+    },
+    {
+      "name": "Ali Abdaal",
+      "handle": "aliabdaal"
+    },
+    {
+      "name": "Peter McKinnon",
+      "handle": "petermckinnon"
+    },
+    {
+      "name": "Matt D'Avella",
+      "handle": "mattdavella"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "creator_id": "UCBJycsmduvYEL83R_U4JriQ",
+  "creator_name": "Marques Brownlee",
+  "profile_generated_at": "2025-08-25T07:43:22.864305",
+  "content_dna": {
+    "primary_themes": {
+      "ai": 3,
+      "review": 2,
+      "play": 2,
+      "software": 1
+    },
+    "content_entities": {},
+    "sentiment_profile": {
+      "vader_avg": 0.304,
+      "textblob_avg": 0.219,
+      "sentiment_distribution": {
+        "positive": 7,
+        "neutral": 2,
+        "negative": 0
+      },
+      "dominant_sentiment": "positive"
+    }
+  },
+  "performance_metrics": {
+    "avg_views": 4635865,
+    "avg_engagement_rate": 3.2,
+    "consistency_score": 9.5,
+    "trend_direction": "stable"
+  },
+  "posting_behavior": {
+    "frequency": "monthly_or_less",
+    "avg_days_between_posts": 191.8,
+    "consistency_percentage": 0
+  },
+  "brand_compatibility": {
+    "safety_score": 8.9,
+    "risk_factors": [
+      "No significant risk factors identified"
+    ],
+    "opportunities": [
+      "Contains 2 brand-positive content elements",
+      "Positive overall content sentiment"
+    ]
+  },
+  "recommendations": [
+    "\ud83d\udcca Stable performance - Reliable partnership option",
+    "\ud83c\udfaf Focus on trending topics: review, ai"
+  ]
+}

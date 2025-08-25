@@ -1,0 +1,47 @@
+{
+  "creator_id": "UC78cxCAcp7JfQPgKxYdyGrg",
+  "creator_name": "emma chamberlain",
+  "profile_generated_at": "2025-08-25T07:43:26.550489",
+  "content_dna": {
+    "primary_themes": {
+      "ai": 5,
+      "stream": 3,
+      "life": 1
+    },
+    "content_entities": {},
+    "sentiment_profile": {
+      "vader_avg": 0.19,
+      "textblob_avg": 0.224,
+      "sentiment_distribution": {
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
+      },
+      "dominant_sentiment": "positive"
+    }
+  },
+  "performance_metrics": {
+    "avg_views": 1527631,
+    "avg_engagement_rate": 4.61,
+    "consistency_score": 9.55,
+    "trend_direction": "stable"
+  },
+  "posting_behavior": {
+    "frequency": "monthly_or_less",
+    "avg_days_between_posts": 24.2,
+    "consistency_percentage": 0
+  },
+  "brand_compatibility": {
+    "safety_score": 8.5,
+    "risk_factors": [
+      "No significant risk factors identified"
+    ],
+    "opportunities": [
+      "Positive overall content sentiment"
+    ]
+  },
+  "recommendations": [
+    "\ud83d\udcca Stable performance - Reliable partnership option",
+    "\ud83c\udfaf Focus on trending topics: general"
+  ]
+}

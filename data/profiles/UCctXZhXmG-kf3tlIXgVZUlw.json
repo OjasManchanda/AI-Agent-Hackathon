@@ -1,0 +1,45 @@
+{
+  "creator_id": "UCctXZhXmG-kf3tlIXgVZUlw",
+  "creator_name": "GaryVee",
+  "profile_generated_at": "2025-08-25T07:43:30.006059",
+  "content_dna": {
+    "primary_themes": {
+      "life": 1
+    },
+    "content_entities": {},
+    "sentiment_profile": {
+      "vader_avg": -0.048,
+      "textblob_avg": 0.191,
+      "sentiment_distribution": {
+        "positive": 3,
+        "neutral": 2,
+        "negative": 5
+      },
+      "dominant_sentiment": "negative"
+    }
+  },
+  "performance_metrics": {
+    "avg_views": 17917,
+    "avg_engagement_rate": 4.69,
+    "consistency_score": 0,
+    "trend_direction": "stable"
+  },
+  "posting_behavior": {
+    "frequency": "daily",
+    "avg_days_between_posts": 0.0,
+    "consistency_percentage": 100.0
+  },
+  "brand_compatibility": {
+    "safety_score": 8.0,
+    "risk_factors": [
+      "No significant risk factors identified"
+    ],
+    "opportunities": [
+      "Standard partnership potential"
+    ]
+  },
+  "recommendations": [
+    "\ud83d\udcca Stable performance - Reliable partnership option",
+    "\ud83c\udfaf Focus on trending topics: life"
+  ]
+}
