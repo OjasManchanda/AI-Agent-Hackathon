@@ -31,7 +31,7 @@ app = Flask(__name__)
 CORS(app)
 
 # YouTube API configuration - FIXED API KEY
-YOUTUBE_API_KEY = 'AIzaSyAZGZp3p2VRWcczLzgqF6FigM93iaf9CyU'  # Your working API key
+YOUTUBE_API_KEY = 'yt api'  
 youtube = build('youtube', 'v3', developerKey=YOUTUBE_API_KEY)
 
 # Initialize AI models if available
